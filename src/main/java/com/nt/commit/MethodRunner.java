@@ -9,6 +9,7 @@ public class MethodRunner implements CommandLineRunner{
 	public void run(String... args) throws Exception {
 		System.out.println("method invoked.....");
 		System.out.println("method 2.....");
+		System.out.println("jhgkk");
 		
 	}
 
